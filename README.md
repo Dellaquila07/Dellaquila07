@@ -1,4 +1,4 @@
-## Olá! Eu sou o Kauã Dellaquila 
+## Olá! Eu sou o Kauã Dellaquila 🧙🏽‍♂️
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Dellaquila07&show_icons=true&theme=tokyonight">
