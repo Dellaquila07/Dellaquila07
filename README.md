@@ -28,25 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dellaquila07&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dellaquila07&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
-## 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dellaquila07/Dellaquila07/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dellaquila07/Dellaquila07/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/Dellaquila07/Dellaquila07/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ## 📫 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/kauadellaquila/
